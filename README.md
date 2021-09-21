@@ -30,11 +30,13 @@ Outside work, I like playing music (Guitar/ Drums/ Keyboard/ VST Production (fol
 Gokarting and I've been a fitness enthusiast since about the time I made this profile.  
 I love watching anime in my free time as well. Give me a follow on my [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/vishal_nehra) :) 
 
+<!--
 #### 👩🏻‍💻 Languages and Tools <br />
 
 Java, Python, Golang, Kotlin, Spring Boot, Kafka, MongoDB, Postgres, Elastic Search, AWS, GCP, Docker, K8S, CI/CD/Actions/Workflows, Android, Dart, Flutter, Kotlin Native
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNehra&layout=compact)](https://github.com/VishalNehra/)
+-->
 
 
 ## &#x1f4c8; GitHub Stats
