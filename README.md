@@ -7,9 +7,6 @@
 [![Github](https://img.shields.io/github/followers/VishalNehra?label=Follow&style=social)](https://github.com/VishalNehra)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-nehra-a44b6a114/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vishalmeham2@gmail.com)
-
-<h2>About Me</h2>
-
 <!--
 **VishalNehra/VishalNehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
