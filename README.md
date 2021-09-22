@@ -1,5 +1,3 @@
-### Hi there, I'm Vishal Nehra. 👋
-
 <p align='center'>
 </p>
 
