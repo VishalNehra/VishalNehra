@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working full time as full stack enginner, and contributing here for open source mobile applications in free time.
+I'm currently working full time as full stack engineer, and contributing here for open source mobile applications in free time.
 My work here includes delivering Android utility apps as a part of Team Amaze, notably Amaze File Manager.  
 I'm looking to deliever an open source, ad free, secure and private mobile apps experience for the community.
 
